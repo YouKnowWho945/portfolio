@@ -1,0 +1,20 @@
+#pic {
+    width: 200px; 
+    align-items: center;
+}
+.top {
+    background-color: black; 
+    color: white;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 60px;
+}
+.front {
+    color: red;
+}
+.back {
+    color: blue;
+}
+.words {
+     
+}
